@@ -1,0 +1,7 @@
+Run.bat
+
+Argument 1 : Pattern
+Argument 2 : Directory
+
+For Req 5 & 6:
+I have hardcoded "MetricExecutive.cpp" at Line 80 in MetricExecutive.cpp. Please change it to some other in case of testing that file.(Do place the file to be checked in ./ directory).

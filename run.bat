@@ -1,0 +1,1 @@
+.\x64\Debug\MetricExecutive.exe *.cpp ./
